@@ -1,0 +1,16 @@
+
+.nombres1{
+    border-radius: 18px;
+    border: none;
+    background-color: brown;
+    width: 175px;
+    
+}
+
+.borrar{
+    background-color: aquamarine;
+    border-radius: 8px;
+    border-color: aqua;
+    height: 2.3vw;
+    width: 11vh;
+}
